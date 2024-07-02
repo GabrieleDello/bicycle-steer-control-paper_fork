@@ -1,5 +1,7 @@
 # NOTE : This is the Batavus Browser + rider Jason taken from HumanControl
-# repo. The parameters match those of the Meijaard2007 paper.
+# repo. The parameters match those of the Meijaard2007 paper. 
+
+# Rider B (Gabriele)
 bike_with_rider = {
     'IBxx': 13.393838189946987,
     'IBxz': 0.2901829581334873, 
